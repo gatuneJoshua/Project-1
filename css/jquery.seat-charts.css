@@ -1,0 +1,42 @@
+div.seatCharts-cell {
+
+	height: 18px;
+	width: 18px;
+	margin: 5px;
+	float: left;
+	text-align: center;
+	outline: none;
+	font-size: 15px;
+	line-height:18px;
+	color: blue;
+
+}
+div.seatCharts-seat {
+	background-color: purple;
+	color: white;
+	border-radius: 5px;
+	cursor: default;
+}
+
+
+div.seatCharts-row {
+	height: 60px;
+}
+
+
+div.seatCharts-seat.booked {
+	background-color: purple;
+}
+
+div.seatCharts-seat.focused {
+	background-color: green;
+}
+
+div.seatCharts-seat.available {
+	background-color: green;
+}
+
+div.seatCharts-seat.unavailable {
+	background-color: purple;
+}
+

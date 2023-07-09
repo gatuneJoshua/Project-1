@@ -1,0 +1,21 @@
+{
+  "signup": [
+    {
+      "fname": "Josh",
+      "lname": "Gatune",
+      "email": "gatunejr@gmail.com",
+      "phone": "0712345678",
+      "password": "12345678",
+      "id": 1
+    },
+    {
+      "fname": "Sam",
+      "lname": "Tomashi",
+      "email": "tomashisam@gmail.com",
+      "phone": "0787654321",
+      "password": "87654321",
+      "id": 2
+    }
+  ]
+}
+

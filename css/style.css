@@ -1,0 +1,32 @@
+body {
+   
+    max-height: 100%;
+    overflow: auto;
+    background-image: linear-gradient(to top, pink
+     0%, violet
+      100%);
+    color: black;
+    
+}
+
+.front-indicator {
+    margin: 0.5em 0;
+    width: 100%;
+    color: black;
+    font-size: 25px;
+    padding: 1em 0;
+    text-align: center;
+    border-radius: 5em;
+    background-color: yellow;
+}
+
+div.seatCharts-seat.available.members-only {
+    background:red;
+}
+
+li.seatCharts-legendItem {
+    margin-top: 5px;
+    font-size: 15px;
+    line-height: 2em;
+}
+
